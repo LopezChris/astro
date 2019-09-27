@@ -1,10 +1,10 @@
-# Astrophotography Part 1
+ls# Astrophotography module 1
 
 ## Learning the ropes of Microobservatory for astrophotography
 
-In this module we will learn how to schedule a remote telescope to take a photo of celestial bodies and instruct it to send it back to us via email. In later modules we will learn how to edit the images we collected to generate some of the beatiful pictures of space and celestial bodies we often see in magazines or websites:
+In this module we will learn how to schedule a remote telescope to take a photo of celestial bodies and instruct it to send it back to us via email. In later modules we will learn how to edit the images we collected to generate some of the beautiful pictures of space and celestial bodies we often see in magazines or websites:
 
-**IMAGE HERE**
+![sample](assets/sample.jpg)
 
 Yes! you will create similar images, of course, with your own personal touch and learn about astronomy and astrophotography along the way.
 
