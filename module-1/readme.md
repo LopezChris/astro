@@ -1,4 +1,4 @@
-ls# Astrophotography module 1
+# Astrophotography module 1
 
 ## Learning the ropes of Microobservatory for astrophotography
 
@@ -14,6 +14,12 @@ These are some of the things you will need to follow along and successfully comp
 
 - A valid email address that you have access to
 - Access to internet
+
+## Outline
+
+- [Getting Started](#getting-started)
+- [Select A Target](#select-your-target)
+- [Get your image in the mail](#get-your-picture-in-the-mail)
 
 ## Getting started
 
@@ -111,10 +117,14 @@ When you are done, let one of us know and we can instruct you on what you can do
 
 ## Useful Links
 
-Microobservatory Splash page
+- MicroObservatory Splash page
 
 `https://mo-www.cfa.harvard.edu/MicroObservatory/`
 
-Main page **O**bserving **W**ith **N**asa
+- Main page **O**bserving **W**ith **N**asa
 
 `https://mo-www.cfa.harvard.edu/OWN/`
+
+- Module 1 link
+
+`https://github.com/LopezChris/astro/tree/master/module-1`
